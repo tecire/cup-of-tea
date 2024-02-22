@@ -1,6 +1,6 @@
 {
   "name": "@ericet/hello-tea",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hello Tea",
   "repository": {
     "type": "git",
@@ -12,5 +12,8 @@
   },
   "keywords": [],
   "author": "ericet",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
 }

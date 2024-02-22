@@ -2,5 +2,13 @@
 helloTea()
 # Result
 ```
-A NEW DAY~ Give yourself a Herbal Tea
+ _______________________________________
+< A NEW DAY~ Give yourself a Yellow Tea >
+ ---------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
 ```

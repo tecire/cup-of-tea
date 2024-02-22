@@ -4,6 +4,6 @@ const teaTypes = ['Green Tea', 'Chai Tea', 'Black Tea', 'Oolong Tea', 'Bubble Te
 
 function helloTea() {
     let randomIndex = Math.floor(Math.random() * teaTypes.length);
-    console.log(cowsay.say({text:`A NEW DAY~ Give yourself a ${teaTypes[randomIndex]}`}));
+    console.log(cowsay.say({text:`A NEW DAY~ Give yourself a ${teaTypes[randomIndex]}`,f:'cowfee'}));
 }
 module.exports = { helloTea };

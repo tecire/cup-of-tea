@@ -1,12 +1,16 @@
 {
-  "name": "hello-tea",
+  "name": "@ericet/hello-tea",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hello Tea",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ericet/hello-tea.git"
+  },
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "ericet",
+  "license": "MIT"
 }

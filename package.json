@@ -1,10 +1,10 @@
 {
-  "name": "@ericet/hello-tea",
-  "version": "1.0.2",
+  "name": "@tecire/hello-tea",
+  "version": "1.0.0",
   "description": "Hello Tea",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ericet/hello-tea.git"
+    "url": "https://github.com/tecire/hello-tea.git"
   },
   "main": "index.js",
   "scripts": {
